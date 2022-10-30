@@ -1,8 +1,6 @@
 # End-to-End-Prediction-House-Price
 
-The example
-project is fictitious; the goal is to illustrate the main steps of a Machine
-Learning project. 
+The goal is to illustrate the main steps of a Machine Learning project. 
 
 Here are the main steps we will walk through
 
